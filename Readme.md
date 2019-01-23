@@ -1,11 +1,11 @@
-Connor's Stardew  Valley Mods
+# Connor's Stardew  Valley Mods
 
- What is this?
+ ## What is this?
 
   This will be where I post my code for 100 days of code (hopefully) daily. 
   I plan on trying to develop mods that will do things that are beneficial to both myself and others
   
- Current Ideas
+ ### Current Ideas
   
     Create a mod that alerts you whenever you have an item in your inventory that is able to be donated to museum or community center
     
